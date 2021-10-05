@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,KAEE,gBACF,CAEA,sCAEE,oBACF,CAEA,cACE,WAAY,CACZ,gBACF","file":"main.ad09f62d.chunk.css","sourcesContent":["h1,\np {\n  font-family: Lato;\n}\n\n.slick-prev:before,\n.slick-next:before {\n  color: blue !important;\n}\n\n.slick-slider{\n  height: 100%;\n  max-height: 170px;\n}"]}
